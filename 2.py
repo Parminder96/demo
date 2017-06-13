@@ -1,4 +1,3 @@
-#Testing
 str=input("enter a string")
 i=0
 j=len(str)-1
